@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en-US" styl="height:100%;">
+<head>...</head>
+<body style="position:relative; min-height:100%; top:0px;">
+<div class="w3-row w3-white w3-padding w3-hide-medium w3-hide-small" style="margin-top:5px;">...</div>
+<div class="w3-hide-large w3-hide-large w3-padding-16">..</div>
+<div style="display:none;position:absolute;z-index:5;right:120px;height:57px;background-color:#4CAF50;text-align:right;padding-top:15px;" id="google_translate_element">
+<div class="w3-bar w3-theme w3-card-2 w3-wide notranslate">...</div>
+<nav class="w3-sidebar w3-collapse w3-white w3-card-2" id="mySlidenav">...</nav>
+
+</body>
+</html>
